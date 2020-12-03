@@ -60,6 +60,10 @@ http://localhost:8080
 
 http://localhost:8080/api/documentation - Swagger API DOCS
 
+## TESTS
+
+run `phpunit` or `vendor/bin/phpunit`
+
 ## Database
 
 If you want to connect to database from an external tool, use the following parameters:
